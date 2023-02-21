@@ -1,0 +1,22 @@
+.all-card {
+  font-weight: 400;
+  width:  100%;
+  padding: 20px 50px;
+}
+
+.filter_add {
+  display: flex;
+}
+
+.add {
+  margin: 0px 10px 22px;
+}
+
+table {
+  width: 100%;
+}
+
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+}

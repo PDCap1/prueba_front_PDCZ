@@ -1,0 +1,15 @@
+.all-card {
+  font-weight: 400;
+  width:  100%;
+  padding: 0 20px 50px 20px;
+}
+
+.close {
+  float: right;
+  margin: 10px 10px 0 0;
+}
+
+.submit {
+  text-align-last: center;
+  margin: 10px;
+}

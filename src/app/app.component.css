@@ -1,0 +1,15 @@
+
+.all-card {
+  font-weight: 400;
+  width:  100%;
+  padding: 20px 50px;
+}
+
+table {
+  width: 100%;
+}
+
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+}

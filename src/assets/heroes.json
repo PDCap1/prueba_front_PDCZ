@@ -1,0 +1,11 @@
+{"data":
+    [
+        {"id": 1, "name": "Spiderman"},
+        {"id": 2, "name": "Superman"},
+        {"id": 3, "name": "Batman"},
+        {"id": 4, "name": "Iceman"},
+        {"id": 5, "name": "Hulk"},
+        {"id": 6, "name": "Antman"},
+        {"id": 7, "name": "DareDevil"}
+    ]
+}
